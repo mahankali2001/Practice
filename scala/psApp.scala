@@ -10,6 +10,6 @@ object HelloWorld6 extends App {
   println("Hello, world!")
 }
 
-object HelloWorld61 extends App {
+object HelloWorld9 extends App {
   println("Hello, world!")
 }
