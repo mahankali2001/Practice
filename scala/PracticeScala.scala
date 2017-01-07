@@ -3,3 +3,9 @@ object HelloWorld {
       println("Hello, world!")
     }
   }
+
+  object HelloWorldS {
+    def main(args: Array[String]) {
+      println("Hello, world!")
+    }
+  }
