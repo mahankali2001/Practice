@@ -1,11 +1,11 @@
-object HelloWorld2 extends App {
+object HelloWorld7 extends App {
   println("Hello, world!")
 }
 
-object HelloWorld3 extends App {
+object HelloWorld71 extends App {
   println("Hello, world!")
 }
 
-object HelloWorldM7 extends App {
+object HelloWorldM72 extends App {
   println("Hello, world!")
 }
